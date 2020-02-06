@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1q2w3e4r5t6y",
+    "database": "test_data_science",
+    "host": "34.66.52.149",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postsgres",
+    "password": "pass",
+    "database": "test_data_science",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "1q2w3e4r5t6y",
+    "database": "test_data_science",
+    "host": "34.66.52.149",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
+
+
