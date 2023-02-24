@@ -11,7 +11,7 @@
     "express": "^4.12.3",
     "pg": "^7.18.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.21.3",
+    "sequelize": "^6.29.0",
     "swagger-express-mw": "^0.1.0"
   },
   "devDependencies": {
